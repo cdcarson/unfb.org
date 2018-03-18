@@ -1,0 +1,25 @@
+{
+  "name": "unfb.org",
+  "version": "1.0.0",
+  "description": "website for unfb.org",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdcarson/unfb.org.git"
+  },
+  "author": "Chris Carson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdcarson/unfb.org/issues"
+  },
+  "homepage": "https://github.com/cdcarson/unfb.org#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

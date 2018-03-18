@@ -1,0 +1,9 @@
+.c2a {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg/2048px-Facebook_Headquarters_1_Hacker_Way_Menlo_Park.jpg");
+  background-size: cover;
+  background-position: right 75%;
+  min-height: 400px; }
+  .c2a h1 {
+    padding: 24px;
+    width: 275px;
+    background: rgba(255, 255, 255, 0.75); }
